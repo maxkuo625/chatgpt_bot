@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# 虛擬環境（常見命名）
+venv/
+.env/
+.venv/
+env/
+chatgpt_bot_venv/
+
+# 敏感檔案
+.env
+config.py
+
+# 編輯器設定
+.vscode/
+.idea/
+
+# 系統檔
+.DS_Store
+Thumbs.db
+
+# 套件 / 架構快取
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
