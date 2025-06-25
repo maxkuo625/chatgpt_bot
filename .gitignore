@@ -2,11 +2,7 @@
 __pycache__/
 *.py[cod]
 
-# 虛擬環境（常見命名）
-venv/
-.env/
-.venv/
-env/
+# 虛擬環境
 chatgpt_bot_venv/
 
 # 敏感檔案
